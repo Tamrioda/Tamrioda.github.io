@@ -99,5 +99,10 @@ footer{
 }
 
 .portrait_name{
-    background: rgba(0,128,155,0.9);
+    background: rgba(0,128,155
+    ,0.9);
+}
+
+body{
+    background:#751B9E;
 }
