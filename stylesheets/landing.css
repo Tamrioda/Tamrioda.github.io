@@ -86,23 +86,25 @@ Color 1:
 ***********************************/
 
 article{
-    background:#0080FF;
+    background:#E89ADA;
+    color:black;
 }
 
 footer{
-    background:#eee;
+    background:#E89ADA;
+    color:black;
 }
 
 .jumbotron{
-  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDreNCAxjRmBd0W84x1y-EX3qtVtNX17WzTqzdQshLow7nurn') no-repeat center;
+  background: url('http://www.dailyfreepsd.com/wp-content/uploads/2013/07/pink-sparkling-sea-abstract-sunset-clipart.jpg') no-repeat center;
   background-size: cover;
 }
 
 .portrait_name{
-    background: rgba(0,128,155
+    background: rgba(148,71,110
     ,0.9);
 }
 
 body{
-    background:#751B9E;
+    background:#94476E;
 }
